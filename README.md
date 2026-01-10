@@ -61,8 +61,8 @@ The dataset contains information related to Netflix titles, including:
 Netflix-SQL-Analysis/
 │
 ├── Netflix.sql            # SQL queries used for analysis
-├── dataset/               # Raw dataset (if included)
-├── screenshots/           # Query outputs (optional)
+├── dataset/               # Raw dataset 
+├── screenshots/           # Query outputs
 └── README.md              # Project documentation
 ```
 
@@ -95,3 +95,4 @@ Aspiring Data Analyst | SQL | Power BI | Excel
 ## License
 
 This project is for learning and portfolio purposes.
+
